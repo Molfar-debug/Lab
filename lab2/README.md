@@ -1,17 +1,19 @@
 Звіт до лабораторної роботи 2
 
-![](D:\Lab2\media\1\Screenshot 2026-05-21 104245.png)
+![](media/1/1.png)
 
-![](D:\Lab2\media\1\Screenshot 2026-05-21 103936.png)
+![](media/1/2.png)
 
-![](D:\Lab2\media\1\Screenshot 2026-05-21 103605.png)
+![](media/1/3.png)
 
-![](D:\Lab2\media\1\Screenshot 2026-05-21 102209.png)
+![](media/1/3.png)
 
-![](D:\Lab2\media\1\Screenshot 2026-05-21 102128.png)
+![](media/1/4.png)
 
-![](D:\Lab2\media\1\Screenshot 2026-05-21 095755.png)
+![](media/1/5.png)
 
-![](D:\all labs\all labs\lab2\media\2\Screenshot 2026-05-21 114327.png)
+![](media/1/6.png)
 
-![](D:\all labs\all labs\lab2\media\2\Screenshot 2026-05-21 114721.png)
+![](media/2/1.png)
+
+![](media/2/2.png)
